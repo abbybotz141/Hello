@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/IRON-M4N/pair-example.git"
+    "url": "https://github.com/abbybotz141/Hello.git"
   },
   "keywords": [],
-  "author": "IRON-M4N",
+  "author": "Abby",
   "license": "MIT",
   "dependencies": {
     "@types/node": "^18.0.6",
